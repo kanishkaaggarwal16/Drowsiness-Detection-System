@@ -6,6 +6,6 @@ This is Achieve to detect the body movement using a camera and analysing the sta
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/117279686/236540384-f4ada205-fc13-4d4b-966a-b5d84898ca65.png">
 
 
-Taking the facts into consideration drowsiness detection system in the future of road safety and also safety from thieves.
+Taking the facts into consideration drowsiness detection system can be used in the future of road safety and in safety from thieves.
 ![image](https://user-images.githubusercontent.com/117279686/236540468-645674f9-695d-4c8e-8af7-96c0c40d3202.png)
 
